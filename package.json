@@ -1,0 +1,16 @@
+{
+  "name": "isometric-settlers",
+  "version": "0.1.0",
+  "description": "An isometric strategy game inspired by The Settlers",
+  "main": "index.html",
+  "scripts": {
+    "start": "npx vite"
+  },
+  "dependencies": {
+    "serve": "^14.2.0",
+    "three": "^0.175.0"
+  },
+  "devDependencies": {
+    "vite": "^6.2.3"
+  }
+}
